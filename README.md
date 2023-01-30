@@ -6,7 +6,7 @@ Python 3.x
 How to Play
 Clone the repository to your local machine.
 
-git clone https://github.com/<your-username>/slot-machine-game.git
+git clone https://github.com/LazyCiao/Slot-game
 
 Navigate to the repository and run python main.py.
 The game will start, and you can play by pulling the lever.
